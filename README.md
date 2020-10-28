@@ -3,3 +3,4 @@
 ```bash
 sudo snap install atom --classic
 ```
+sumber https://flight-manual.atom.io/getting-started/sections/installing-atom/
