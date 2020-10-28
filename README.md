@@ -9,4 +9,4 @@ sumber https://flight-manual.atom.io/getting-started/sections/installing-atom/
  'atom-text-editor':
   'shift-alt-x': 'editor:auto-indent'
   ```
-  Tempatkan di <code>keybindings</code>
+  Tempatkan di <code>keybindings - your keymap file</code>
