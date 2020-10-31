@@ -10,3 +10,7 @@ sumber https://flight-manual.atom.io/getting-started/sections/installing-atom/
   'shift-alt-x': 'editor:auto-indent'
   ```
   Tempatkan di <code>keybindings - your keymap file</code>
+## Install Font TTF Microsoft di Ubuntu
+```bash
+sudo apt-get install ttf-mscorefonts-installer
+```
